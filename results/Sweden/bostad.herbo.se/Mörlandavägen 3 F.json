@@ -1,0 +1,19 @@
+{
+    "url": "https://bostad.herbo.se/HSS/Object/ObjectDetailsTemplateB.aspx?cmguid=f85a83f8-db44-43cc-b053-4c8dd1a25b57&objectguid=1382446d-9ff5-43ad-81ba-883fd2cf4a07",
+    "title": "Mörlandavägen 3 F",
+    "status": null,
+    "pictures": [
+        "https://bostad.herbo.se//Global/DisplayMultimedia.ashx?guid=57f0da9c-2856-4011-a941-920e7ffe20fd&thumbwidth=40&thumbheight=40",
+        "https://bostad.herbo.se//Global/DisplayMultimedia.ashx?guid=06486c7a-cf14-4d19-8f7f-3ff4dca76d0b&thumbwidth=40&thumbheight=40"
+    ],
+    "rent_price": 4404.0,
+    "description": [
+        "Lägenheten är på markplan med uteplats i ett lugnt område nära till livsmedelsaffär och skola. Gemensam tvättstuga. Källarförråd. ",
+        "1 rum och kök",
+        "Varmhyra med individuell värmemätning avräkning sker en gång per år. Hyresgästen ombesörjer och bekostar snöröjning, sandning och renhållning fram till gata."
+    ],
+    "phone_number": null,
+    "email": null,
+    "country": "Sweden",
+    "domain": "bostad.herbo.se"
+}
